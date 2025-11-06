@@ -1,0 +1,12 @@
+# HƯỚNG DẪN CÀI ĐẶT [SOUDEME_DEMO]
+
+## 🎯 Giới thiệu
+[WEB BÁN NỘI THẤT]
+
+## ⚙️ Yêu cầu hệ thống
+- PHP: 
+- MySQL: 
+- Web server: [Apache/]
+## 
+- Giai nén ở thư mục htdoc
+- create databaseở sql qua phpadmin
